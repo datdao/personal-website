@@ -4,7 +4,7 @@
   "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
