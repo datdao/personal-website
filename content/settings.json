@@ -13,11 +13,11 @@
       "github": "https://github.com/datdao",
       "medium": "https://datdao.medium.com",
       "linkedin": "https://www.linkedin.com/in/datdao",
-      "mail": "mailto:datdai.sde@gmail.com"
+      "mail": "mailto:datdao.sde@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "datdao" },
+    "logo": { "text": "Bờm" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -25,7 +25,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Curriculum Vitae",
+        "label": "Buy Me A Coffee",
         "url": "/curriculum_vitae.pdf"
       },
       "footer": [
